@@ -5,10 +5,12 @@
 
 ## 種類
 
-|メーカー|製品名|年数|値段|台数|対応|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|シマンテック|[ノートン セキュリティ](https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-3%E5%8F%B0%E7%89%88-Android%E5%AF%BE%E5%BF%9C/dp/B01LYASXCT?th=1)|3|12265|3|Win/Mac/iOS/Android対応
-|トレンドマイクロ|[ウイルスバスター クラウド](https://www.amazon.co.jp/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89-%E6%9C%80%E6%96%B0%E7%89%88-3%E5%8F%B0%E7%89%88-Android%E5%AF%BE%E5%BF%9C/dp/B0756T16RD/ref=sr_1_6?ie=UTF8&qid=1505634939&sr=8-6&keywords=%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89)|3|12485|3|Win/Mac/iOS/Android対応
+|メーカー|製品名|年数|値段|台数|
+|:--:|:--:|:--:|:--:|:--:|
+|シマンテック|[ノートン セキュリティ](https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-3%E5%8F%B0%E7%89%88-Android%E5%AF%BE%E5%BF%9C/dp/B01LYASXCT?th=1)|3|12265|3|
+|トレンドマイクロ|[ウイルスバスター クラウド](https://www.amazon.co.jp/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89-%E6%9C%80%E6%96%B0%E7%89%88-3%E5%8F%B0%E7%89%88-Android%E5%AF%BE%E5%BF%9C/dp/B0756T16RD/ref=sr_1_6?ie=UTF8&qid=1505634939&sr=8-6&keywords=%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89)|3|12485|3|
+|カスペルスキー|[カスペルスキー セキュリティ 2017](https://www.amazon.co.jp/%E3%82%AB%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%BC-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-2017-3%E5%B9%B45%E5%8F%B0%E7%89%88/dp/B01LYJSZ31/ref=sr_1_1?ie=UTF8&qid=1505635022&sr=8-1&keywords=%E3%82%AB%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%BC+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+2017)|3|10572|3|
+|マカフィー|[マカフィー リブセーフ](https://www.amazon.co.jp/dp/B01M4J5TFF/ref=twister_B01MG164EQ?_encoding=UTF8&psc=1)|3|12000|-|
 
 
 # 参照元
